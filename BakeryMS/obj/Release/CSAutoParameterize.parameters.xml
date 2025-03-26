@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BakeryDBConnection-Web.config Connection String" description="BakeryDBConnection Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:bakeryms-dbserver.database.windows.net,1433;&#xD;&#xA;                          Initial Catalog=BakeryDB;&#xD;&#xA;                          Persist Security Info=False;&#xD;&#xA;                          User ID=adminuser;&#xD;&#xA;                          Password= RGSZaBi_*dxp04;&#xD;&#xA;                          MultipleActiveResultSets=False;&#xD;&#xA;                          Encrypt=True;&#xD;&#xA;                          TrustServerCertificate=False;&#xD;&#xA;                          Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BakeryDBConnection']/@connectionString" />
+  </parameter>
+</parameters>

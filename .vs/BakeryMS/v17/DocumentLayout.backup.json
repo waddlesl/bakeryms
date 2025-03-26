@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|c:\\users\\pedron\\source\\repos\\bakeryms\\bakeryms\\customer\\customerorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|solutionrelative:bakeryms\\customer\\customerorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|c:\\users\\pedron\\source\\repos\\bakeryms\\bakeryms\\admin\\productmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|solutionrelative:bakeryms\\admin\\productmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|c:\\users\\pedron\\source\\repos\\bakeryms\\bakeryms\\admin\\ordermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|solutionrelative:bakeryms\\admin\\ordermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|c:\\users\\pedron\\source\\repos\\bakeryms\\bakeryms\\customer\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|solutionrelative:bakeryms\\customer\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|C:\\Users\\Pedron\\source\\repos\\BakeryMS\\bakeryms\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|solutionrelative:bakeryms\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|C:\\Users\\Pedron\\source\\repos\\BakeryMS\\bakeryms\\admin\\orderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|solutionrelative:bakeryms\\admin\\orderdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|C:\\Users\\Pedron\\source\\repos\\BakeryMS\\bakeryms\\admin\\orderdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB82F65-0D3B-47BC-910D-BA9DF071677C}|BakeryMS\\BakeryMS.csproj|solutionrelative:bakeryms\\admin\\orderdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Customer\\CustomerOrders.aspx",
+              "RelativeDocumentMoniker": "BakeryMS\\Customer\\CustomerOrders.aspx",
+              "ToolTip": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Customer\\CustomerOrders.aspx",
+              "RelativeToolTip": "BakeryMS\\Customer\\CustomerOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-25T10:48:21.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Customer\\Home.aspx",
+              "RelativeDocumentMoniker": "BakeryMS\\Customer\\Home.aspx",
+              "ToolTip": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Customer\\Home.aspx",
+              "RelativeToolTip": "BakeryMS\\Customer\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-25T10:35:00.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Admin\\ProductManagement.aspx.cs",
+              "RelativeDocumentMoniker": "BakeryMS\\Admin\\ProductManagement.aspx.cs",
+              "ToolTip": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Admin\\ProductManagement.aspx.cs",
+              "RelativeToolTip": "BakeryMS\\Admin\\ProductManagement.aspx.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:31:49.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Admin\\OrderManagement.aspx.cs",
+              "RelativeDocumentMoniker": "BakeryMS\\Admin\\OrderManagement.aspx.cs",
+              "ToolTip": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Admin\\OrderManagement.aspx.cs",
+              "RelativeToolTip": "BakeryMS\\Admin\\OrderManagement.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:31:40.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Admin\\OrderDetails.aspx.cs",
+              "RelativeDocumentMoniker": "BakeryMS\\Admin\\OrderDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Admin\\OrderDetails.aspx.cs",
+              "RelativeToolTip": "BakeryMS\\Admin\\OrderDetails.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:33:44.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Admin\\OrderDetails.aspx",
+              "RelativeDocumentMoniker": "BakeryMS\\Admin\\OrderDetails.aspx",
+              "ToolTip": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Admin\\OrderDetails.aspx",
+              "RelativeToolTip": "BakeryMS\\Admin\\OrderDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-25T09:32:55.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Site.Master.cs",
+              "RelativeDocumentMoniker": "BakeryMS\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\Pedron\\source\\repos\\BakeryMS\\BakeryMS\\Site.Master.cs",
+              "RelativeToolTip": "BakeryMS\\Site.Master.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:42:04.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
